@@ -1,4 +1,7 @@
 """
+Written by Jennifer Kaiser 2023
+www.github.com/jenniferkaiser21
+
 This program is a strong password generator with customizations for password length and the inclusion of the following:
 Lowercase Characters: e.g. abcdef
 Uppercase Characters: e.g. ABCDEF
